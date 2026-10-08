@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说创作"
+  short_description: "面向各类小说构思续写与修订，减少模板感并理顺情节"
+  default_prompt: "使用 $novel-writing 按作品设定续写小说，并检查人物动机与情节因果。"
